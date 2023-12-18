@@ -1,8 +1,6 @@
 ﻿// Author: Dylan Nagel
 // File Name: main.cs
 // Project Name: IceColdButterBeer
-// Creation Date: May 20, 2020
-// Modified Date: June 20, 2020
 // Description: This program is a video game version of the retro game ice cold beer, where you must get ball to designated areas by rolling it on a bar
  
 using System;
