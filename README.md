@@ -4,7 +4,7 @@ Welcome to the repository for **Ice Cold Butter Beer**! This project is an innov
 
 ## Game Description
 
-**Ice Cold Butter Beer** stands out with its intricate gameplay mechanics and engaging player experiences. Each mode offers a different challenge, making it a dynamic and exciting game to play. Watch a demo of this game [here.]([https://youtu.be/OBn8ILREHPM](https://youtu.be/Z7evVo3lrIY))
+**Ice Cold Butter Beer** stands out with its intricate gameplay mechanics and engaging player experiences. Each mode offers a different challenge, making it a dynamic and exciting game to play. Watch a demo of this game [here.](https://youtu.be/Z7evVo3lrIY)
 
 ### Development
 
